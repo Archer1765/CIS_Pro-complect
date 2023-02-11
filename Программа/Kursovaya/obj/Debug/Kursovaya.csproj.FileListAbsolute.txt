@@ -1,0 +1,260 @@
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\Kursovaya.exe.config
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\Kursovaya.exe
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\Kursovaya.pdb
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\MySql.Data.dll
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\Google.Protobuf.dll
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\ZstdNet.dll
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\System.Memory.dll
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\System.Buffers.dll
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\bin\Debug\MySql.Data.xml
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.csproj.AssemblyReference.cache
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.exe.config
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.csproj.CopyComplete
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.exe
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.pdb
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.Form2.resources
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.Group.resources
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.Post.resources
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.Teacher.resources
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.Degree.resources
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.Subject.resources
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.ClassType.resources
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.Auditorium.resources
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.Graphic.resources
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.Lesson.resources
+C:\Users\Алёна\Desktop\курсовая\Kursovaya\obj\Debug\Kursovaya.Form3.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\Kursovaya.exe.config
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.exe
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.pdb
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\Kursovaya.exe
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\Kursovaya.pdb
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\MySql.Data.dll
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.csprojResolveAssemblyReference.cache
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Auditorium.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.ClassType.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Degree.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Form2.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Form3.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Graphic.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Group.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Lesson.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Post.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Subject.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Teacher.resources
+D:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.Cache
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\Kursovaya.exe.config
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\Kursovaya.exe
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\Kursovaya.pdb
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\MySql.Data.dll
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\Google.Protobuf.dll
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\ZstdNet.dll
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\BouncyCastle.Crypto.dll
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\Ubiety.Dns.Core.dll
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\System.Memory.dll
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\System.Buffers.dll
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\K4os.Compression.LZ4.dll
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\K4os.Hash.xxHash.dll
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\bin\Debug\MySql.Data.xml
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.csproj.AssemblyReference.cache
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.exe.config
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Auditorium.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.ClassType.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Degree.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Form2.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Form3.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Graphic.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Group.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Lesson.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Post.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Subject.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Teacher.resources
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.csproj.CopyComplete
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.exe
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.pdb
+F:\УНИВЕР\3 КУРС\2 СЕМЕСТР\Курсовая МиСПИСиТ\БД\Kursovaya\obj\Debug\Kursovaya.Form4.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\Kursovaya.exe.config
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\Kursovaya.exe
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\Kursovaya.pdb
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\MySql.Data.dll
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\Google.Protobuf.dll
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\ZstdNet.dll
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\System.Memory.dll
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\System.Buffers.dll
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\bin\Debug\MySql.Data.xml
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.csproj.AssemblyReference.cache
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.csproj.SuggestedBindingRedirects.cache
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.exe.config
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Auditorium.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.ClassType.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Degree.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Form2.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Form3.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Form4.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Graphic.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Group.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Lesson.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Post.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Subject.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.Teacher.resources
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.csproj.CopyComplete
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.exe
+C:\Users\Антон\Downloads\BD\БД\Kursovaya\obj\Debug\Kursovaya.pdb
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\Kursovaya.exe.config
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\Kursovaya.exe
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\Kursovaya.pdb
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\MySql.Data.dll
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\Google.Protobuf.dll
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\ZstdNet.dll
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\System.Memory.dll
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\System.Buffers.dll
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Алёна\Desktop\БД\Kursovaya\bin\Debug\MySql.Data.xml
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.csproj.AssemblyReference.cache
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.exe.config
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Auditorium.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.ClassType.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Degree.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Form2.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Form3.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Form4.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Graphic.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Group.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Lesson.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Post.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Subject.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.Teacher.resources
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.csproj.CopyComplete
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.exe
+C:\Users\Алёна\Desktop\БД\Kursovaya\obj\Debug\Kursovaya.pdb
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\Kursovaya.exe.config
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\Kursovaya.exe
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\Kursovaya.pdb
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\MySql.Data.dll
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\Google.Protobuf.dll
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\ZstdNet.dll
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\BouncyCastle.Crypto.dll
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\System.Memory.dll
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\System.Buffers.dll
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\K4os.Compression.LZ4.dll
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\K4os.Hash.xxHash.dll
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\System.Numerics.Vectors.dll
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\bin\Debug\MySql.Data.xml
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.csproj.AssemblyReference.cache
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.exe.config
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Auditorium.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.ClassType.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Degree.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Form1.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Form2.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Form3.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Form4.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Graphic.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Group.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Lesson.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Post.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Subject.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.Teacher.resources
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.csproj.CopyComplete
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.exe
+F:\УНИВЕР\3 КУРС\6 СЕМЕСТР\Курсовая МиСПИСиТ\БД 2.0\Kursovaya\obj\Debug\Kursovaya.pdb
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\Kursovaya.exe.config
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\Kursovaya.exe
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\Kursovaya.pdb
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\MySql.Data.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\Google.Protobuf.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\ZstdNet.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\BouncyCastle.Crypto.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\System.Memory.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\System.Buffers.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\K4os.Compression.LZ4.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\K4os.Hash.xxHash.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\System.Numerics.Vectors.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\bin\Debug\MySql.Data.xml
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.csproj.AssemblyReference.cache
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.exe.config
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Auditorium.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.ClassType.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Degree.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Authorization.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Form2.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Form3.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Form4.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Graphic.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Group.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Lesson.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Post.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Subject.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Teacher.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.csproj.CopyComplete
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.exe
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.pdb
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Seller.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\БД\Kursovaya\obj\Debug\Kursovaya.Administrator.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\obj\Debug\Kursovaya.csproj.AssemblyReference.cache
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\obj\Debug\Kursovaya.exe.config
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\obj\Debug\Kursovaya.Administrator.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\obj\Debug\Kursovaya.Authorization.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\obj\Debug\Kursovaya.Properties.Resources.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\obj\Debug\Kursovaya.Seller.resources
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\obj\Debug\Kursovaya.csproj.GenerateResource.cache
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\obj\Debug\Kursovaya.csproj.CoreCompileInputs.cache
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\obj\Debug\Kursovaya.exe
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\obj\Debug\Kursovaya.pdb
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\Kursovaya.exe.config
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\Kursovaya.exe
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\Kursovaya.pdb
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\MySql.Data.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\Google.Protobuf.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\ZstdNet.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\BouncyCastle.Crypto.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\System.Memory.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\System.Buffers.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\K4os.Compression.LZ4.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\K4os.Hash.xxHash.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\System.Numerics.Vectors.dll
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\bin\Debug\MySql.Data.xml
+F:\УНИВЕР\4 КУРС\8 СЕМЕСТР\КОРПОРАТИВНЫЕ ИС\База данных\Kursovaya\obj\Debug\Kursovaya.csproj.CopyComplete
